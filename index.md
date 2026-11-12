@@ -18,3 +18,5 @@ Regular payments, subscriptions and bills in one place.
 | Polski | [Polityka prywatności](policy/pl.md) | [Pomoc](support/pl.md) |
 | Português | [Política de privacidade](policy/pt.md) | [Suporte](support/pt.md) |
 | Türkçe | [Gizlilik Politikası](policy/tr.md) | [Destek](support/tr.md) |
+
+[Open-source licenses](licenses.md)
