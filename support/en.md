@@ -19,7 +19,7 @@ Your data is part of your iPhone backup. Restore an iCloud or computer backup (o
 
 ### Does MyMonth pay my bills?
 
-No. It only tracks payments and reminds you about them inside the app; no money is moved.
+No. It only tracks payments and reminds you about them in the app and, if you allow it, with notifications; no money is moved.
 
 ### How do I delete all my data?
 
@@ -27,7 +27,7 @@ Settings → Data → Delete all data, or delete the app.
 
 ### Where do exchange rates come from?
 
-From [ExchangeRate-API](https://www.exchangerate-api.com), updated once a day. Totals converted to another currency are approximate.
+From [ExchangeRate-API](https://www.exchangerate-api.com), refreshed at most every 12 hours or when you tap Refresh. Totals converted to another currency are approximate.
 
 ---
 

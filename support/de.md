@@ -19,7 +19,7 @@ Deine Daten sind Teil des iPhone-Backups. Stelle auf dem neuen iPhone ein iCloud
 
 ### Bezahlt MyMonth meine Rechnungen?
 
-Nein. Die App verfolgt nur Zahlungen und erinnert in der App daran; es wird kein Geld bewegt.
+Nein. Die App verfolgt nur Zahlungen und erinnert in der App und, wenn du es erlaubst, mit Mitteilungen daran; es wird kein Geld bewegt.
 
 ### Wie lösche ich alle meine Daten?
 
@@ -27,7 +27,7 @@ Einstellungen → Daten → Alle Daten löschen, oder lösche die App.
 
 ### Woher kommen die Wechselkurse?
 
-Von [ExchangeRate-API](https://www.exchangerate-api.com), einmal täglich aktualisiert. In eine andere Währung umgerechnete Summen sind Näherungswerte.
+Von [ExchangeRate-API](https://www.exchangerate-api.com), höchstens alle 12 Stunden oder auf Tippen hin aktualisiert. In eine andere Währung umgerechnete Summen sind Näherungswerte.
 
 ---
 

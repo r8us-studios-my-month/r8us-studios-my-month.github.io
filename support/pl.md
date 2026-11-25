@@ -19,7 +19,7 @@ Dane są częścią kopii zapasowej iPhone’a. Przywróć kopię z iCloud lub k
 
 ### Czy MyMonth opłaca moje rachunki?
 
-Nie. Aplikacja tylko śledzi płatności i przypomina o nich w aplikacji; nie przesyła pieniędzy.
+Nie. Aplikacja tylko śledzi płatności i przypomina o nich w aplikacji oraz, jeśli na to zezwolisz, powiadomieniami; nie przesyła pieniędzy.
 
 ### Jak usunąć wszystkie dane?
 
@@ -27,7 +27,7 @@ Ustawienia → Dane → Usuń wszystkie dane albo usuń aplikację.
 
 ### Skąd pochodzą kursy walut?
 
-Z [ExchangeRate-API](https://www.exchangerate-api.com), aktualizowane raz dziennie. Sumy przeliczone na inną walutę są przybliżone.
+Z [ExchangeRate-API](https://www.exchangerate-api.com), aktualizowane nie częściej niż co 12 godzin lub na żądanie. Sumy przeliczone na inną walutę są przybliżone.
 
 ---
 

@@ -19,7 +19,7 @@ Verileriniz iPhone yedeğinin bir parçasıdır. Yeni iPhone’da iCloud veya bi
 
 ### MyMonth faturalarımı öder mi?
 
-Hayır. Yalnızca ödemeleri takip eder ve uygulama içinde hatırlatır; para transferi yapmaz.
+Hayır. Yalnızca ödemeleri takip eder ve uygulama içinde ve izin verirseniz bildirimlerle hatırlatır; para transferi yapmaz.
 
 ### Tüm verilerimi nasıl silerim?
 
@@ -27,7 +27,7 @@ Ayarlar → Veriler → Tüm verileri sil ya da uygulamayı silin.
 
 ### Döviz kurları nereden geliyor?
 
-[ExchangeRate-API](https://www.exchangerate-api.com) kaynağından, günde bir kez güncellenir. Başka bir para birimine çevrilen toplamlar yaklaşıktır.
+[ExchangeRate-API](https://www.exchangerate-api.com) kaynağından, en fazla 12 saatte bir veya isteğiniz üzerine güncellenir. Başka bir para birimine çevrilen toplamlar yaklaşıktır.
 
 ---
 

@@ -19,7 +19,7 @@ Tus datos forman parte de la copia de seguridad del iPhone. Restaura una copia d
 
 ### ¿MyMonth paga mis facturas?
 
-No. Solo registra los pagos y te los recuerda dentro de la app; no mueve dinero.
+No. Solo registra los pagos y te los recuerda en la app y, si lo permites, con notificaciones; no mueve dinero.
 
 ### ¿Cómo borro todos mis datos?
 
@@ -27,7 +27,7 @@ Ajustes → Datos → Eliminar todos los datos, o elimina la app.
 
 ### ¿De dónde salen los tipos de cambio?
 
-De [ExchangeRate-API](https://www.exchangerate-api.com), se actualizan una vez al día. Los totales convertidos a otra moneda son aproximados.
+De [ExchangeRate-API](https://www.exchangerate-api.com), se actualizan como máximo cada 12 horas o cuando lo pides. Los totales convertidos a otra moneda son aproximados.
 
 ---
 

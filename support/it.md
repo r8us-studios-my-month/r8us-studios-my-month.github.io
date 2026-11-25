@@ -19,7 +19,7 @@ I tuoi dati fanno parte del backup dell’iPhone. Ripristina un backup di iCloud
 
 ### MyMonth paga le mie bollette?
 
-No. Tiene traccia dei pagamenti e te li ricorda nell’app; non sposta denaro.
+No. Tiene traccia dei pagamenti e te li ricorda nell’app e, se lo consenti, con notifiche; non sposta denaro.
 
 ### Come elimino tutti i miei dati?
 
@@ -27,7 +27,7 @@ Impostazioni → Dati → Elimina tutti i dati, oppure elimina l’app.
 
 ### Da dove arrivano i tassi di cambio?
 
-Da [ExchangeRate-API](https://www.exchangerate-api.com), aggiornati una volta al giorno. I totali convertiti in un’altra valuta sono approssimativi.
+Da [ExchangeRate-API](https://www.exchangerate-api.com), aggiornati al massimo ogni 12 ore o su richiesta. I totali convertiti in un’altra valuta sono approssimativi.
 
 ---
 

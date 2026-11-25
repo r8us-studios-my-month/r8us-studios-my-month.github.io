@@ -19,7 +19,7 @@ Os seus dados fazem parte da cópia de segurança do iPhone. Restaure uma cópia
 
 ### O MyMonth paga as minhas contas?
 
-Não. Apenas regista os pagamentos e lembra-o deles dentro da app; não movimenta dinheiro.
+Não. Apenas regista os pagamentos e lembra-o deles na app e, se o permitir, com notificações; não movimenta dinheiro.
 
 ### Como elimino todos os meus dados?
 
@@ -27,7 +27,7 @@ Definições → Dados → Eliminar todos os dados, ou elimine a app.
 
 ### De onde vêm as taxas de câmbio?
 
-De [ExchangeRate-API](https://www.exchangerate-api.com), atualizadas uma vez por dia. Os totais convertidos noutra moeda são aproximados.
+De [ExchangeRate-API](https://www.exchangerate-api.com), atualizadas no máximo a cada 12 horas ou a pedido. Os totais convertidos noutra moeda são aproximados.
 
 ---
 
